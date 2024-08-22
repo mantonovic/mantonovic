@@ -1,4 +1,8 @@
-👋 
+# mantonovic
+
+https://www.linkedin.com/in/mantonovic/
+
+GitLab: https://gitlab.com/mantonovic
      
 ```
  _   _      _ _         _    _            _     _ 
