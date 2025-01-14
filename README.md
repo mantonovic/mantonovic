@@ -13,5 +13,3 @@ GitLab: https://gitlab.com/mantonovic
 \_| |_/\___|_|_|\___/   \/  \/ \___/|_|  |_|\__,_|
                                                     
 ```
-
-[![](https://visitcount.itsvg.in/api?id=mantonovic&label=Hello&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
